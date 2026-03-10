@@ -1,0 +1,5 @@
+{
+  "name": "TitanTrack Academic Agent",
+  "description": "A Socratic AI tutor for Central Bucks South High School that guides students without giving direct answers, and provides a dashboard for teachers to track student struggles.",
+  "requestFramePermissions": []
+}
